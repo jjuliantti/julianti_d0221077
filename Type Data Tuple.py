@@ -1,6 +1,6 @@
 #Type Data Tuple
 #()
-#Intable
+#Immutable
 tuple = ("hijau",83,5.97,False)
 
 #perulangan
